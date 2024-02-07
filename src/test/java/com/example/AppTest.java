@@ -39,6 +39,6 @@ public class AppTest
     public void testHelloWorld() {
         String test = helloWorld();
 
-        assertTrue(test == "Hello World !")
+        assertTrue(test == "Hello World !");
     }
 }
