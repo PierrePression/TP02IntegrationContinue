@@ -12,6 +12,6 @@ public class App
     }
 
     public String helloWorld() {
-        return "Hello World !"
+        return "Hello World !";
     }
 }
