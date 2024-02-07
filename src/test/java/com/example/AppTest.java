@@ -35,4 +35,10 @@ public class AppTest
     {
         assertTrue( true );
     }
+
+    public void testHelloWorld() {
+        String test = helloWorld();
+
+        assertTrue(test == "Hello World !")
+    }
 }
